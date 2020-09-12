@@ -354,8 +354,8 @@ C:\Users\maria\Desktop\Aplicada2\BlazorWasm\CICalc\obj\Debug\netstandard2.1\stat
 C:\Users\maria\Desktop\Aplicada2\BlazorWasm\CICalc\obj\Debug\netstandard2.1\staticwebassets\CICalc.StaticWebAssets.xml
 C:\Users\maria\Desktop\Aplicada2\BlazorWasm\CICalc\obj\Debug\netstandard2.1\CICalc.dll
 C:\Users\maria\Desktop\Aplicada2\BlazorWasm\CICalc\obj\Debug\netstandard2.1\CICalc.pdb
-C:\Users\maria\Desktop\Aplicada2\BlazorWasm\CICalc\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Calculadora.razor.g.cs
-C:\Users\maria\Desktop\Aplicada2\BlazorWasm\CICalc\obj\Debug\netstandard2.1\Razor\Pages\Calculadora.razor.g.cs
-C:\Users\maria\Desktop\Aplicada2\BlazorWasm\CICalc\obj\Debug\netstandard2.1\integrity\AdBxG8zxGkt4MFcmzkTq0A_z1-0e1cotVjp3IGu1Ri8=.hash
-C:\Users\maria\Desktop\Aplicada2\BlazorWasm\CICalc\obj\Debug\netstandard2.1\integrity\qb866yT5otwsbBxT8aG1mwp5lQcehuJ1FY37xnP7Jvs=.hash
-C:\Users\maria\Desktop\Aplicada2\BlazorWasm\CICalc\obj\Debug\netstandard2.1\integrity\eRgfdve-J5W23HjkUIF3aWnTE4zJeKeCMQiUDQIkmiU=.hash
+C:\Users\maria\Desktop\Aplicada2\BlazorWasm\CICalc\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CalculadoraBlazor.razor.g.cs
+C:\Users\maria\Desktop\Aplicada2\BlazorWasm\CICalc\obj\Debug\netstandard2.1\Razor\Pages\CalculadoraBlazor.razor.g.cs
+C:\Users\maria\Desktop\Aplicada2\BlazorWasm\CICalc\obj\Debug\netstandard2.1\integrity\hyx3AF0kXe7Qc32GL5wERyg0qUjNXoJ3ux1p37cDF8E=.hash
+C:\Users\maria\Desktop\Aplicada2\BlazorWasm\CICalc\obj\Debug\netstandard2.1\integrity\tb_SAR_a-84ZIBMHZuRcpnmkudJV1MZz_qvUToYX2uE=.hash
+C:\Users\maria\Desktop\Aplicada2\BlazorWasm\CICalc\obj\Debug\netstandard2.1\integrity\M61C8bzsEitqIWRFki6ul-UjzyAic9SisGOs2NL8cOE=.hash

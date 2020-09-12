@@ -1,0 +1,52 @@
+@page "/calculadoraBlazor"
+
+<h1>CalculadoraBlazor</h1>
+
+
+<table class="table">
+    <tr>
+        <th>Primer Numero</th>
+        <th><input @bind="Primer"/></th>
+    </tr>
+    <tr>
+        <th>Segundo numero</th>
+        <th><input @bind="Segundo"/></th>
+    </tr>
+    <tr>
+        <th>Suma:</th>
+        <th>@Suma</th>
+    </tr>
+     <tr>
+        <th>Resta:</th>
+        <th>@Resta</th>
+    </tr>
+     <tr>
+        <th>Multiplicacion:</th>
+        <th>@Multiplicacion</th>
+    </tr>
+</table>
+
+
+@code{
+
+    public int Primer{ get; set; } = 10;
+    public int Segundo { get; set; } = 2;
+    public int suma { get; set; } = 0;
+    public int resta { get; set; } = 0;
+    public int multiplicacion { get; set; } = 0;
+    public String Suma { get; set; } 
+    public String Resta { get; set; } 
+    public String Multiplicacion { get; set; } 
+    
+    public void Calcular()
+    {
+        var suma = Primer+Segundo;
+        Suma = suma.ToString("C");
+        var resta = Primer-Segundo;
+        Resta= resta.ToString("C");
+        var multiplicacion= Primer*Segundo;
+        Multiplicacion= multiplicacion.ToString("C");
+    }
+}
+
+<button class="btn btn-primary" @onclick="Calcular">Calcular</button>
